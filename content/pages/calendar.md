@@ -4,30 +4,349 @@ title: Calendar
 uid: c9e451d4-278a-a64e-7a00-5f7f81f912cd
 ---
 
-| WEEK # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| {{< td-colspan 3 >}}**I. Introduction and Overview**{{< /td-colspan >}} |||
-| 1 | The Evolution of the Industrial State | &nbsp; |
-| 2 | Paradigms in Social Science | &nbsp; |
-| {{< td-colspan 3 >}}**II. Liberalism and Neoclassical Economics**{{< /td-colspan >}} |||
-| 2 | Film: [_The Fountainhead_](http://www.imdb.com/title/tt0041386/?ref_=nv_sr_1). Directed by King Vidor. Black and White, 114 min. 1949. | &nbsp; |
-| 3 |  {{< br >}}{{< br >}} Discussion of Rand {{< br >}}{{< br >}} Milton Friedman, _Capitalism and Freedom_ {{< br >}}{{< br >}}  | &nbsp; |
-| 4 |  {{< br >}}{{< br >}} Becker {{< br >}}{{< br >}} Gilder {{< br >}}{{< br >}}  | &nbsp; |
-| {{< td-colspan 3 >}}**III. Marxism, Economics and Politics**{{< /td-colspan >}} |||
-| 5 |  {{< br >}}{{< br >}} Marxism: The Manifesto {{< br >}}{{< br >}} Elster {{< br >}}{{< br >}}  | &nbsp; |
-| 6 |  {{< br >}}{{< br >}} Capital, The Division of Labor and Machinery {{< br >}}{{< br >}} Bowles and Gintis {{< br >}}{{< br >}} Foley {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}}  |
-| 7 | Midterm Exam | Essay 1 due |
-| {{< td-colspan 3 >}}**IV. The Social Embeddedness of the Economy**{{< /td-colspan >}} |||
-| 8 |  {{< br >}}{{< br >}} Introduction {{< br >}}{{< br >}} Weber {{< br >}}{{< br >}}  | &nbsp; |
-| 9 |  {{< br >}}{{< br >}} Polanyi {{< br >}}{{< br >}} Schumpeter {{< br >}}{{< br >}}  | &nbsp; |
-| 10 | Keynes | &nbsp; |
-| {{< td-colspan 3 >}}**V. The Rise and Fall of the Corporate State**{{< /td-colspan >}} |||
-| 10 | Galbraith and Solow | &nbsp; |
-| 11 | Piore and Sabel | Essay 2 due |
-| {{< td-colspan 3 >}}**VI. The Crisis** {{< /td-colspan >}} |||
-| 12–13 |  {{< br >}}{{< br >}} The Crisis {{< br >}}{{< br >}} Davis {{< br >}}{{< br >}} Lo {{< br >}}{{< br >}}  | &nbsp; |
-| {{< td-colspan 3 >}}**VII. Recasting Individualism**{{< /td-colspan >}} |||
-| 13 |  {{< br >}}{{< br >}} Thaler and Sunstein {{< br >}}{{< br >}} DellaVigna {{< br >}}{{< br >}}  | &nbsp; |
-| 14 |  {{< br >}}{{< br >}} Arendt {{< br >}}{{< br >}} Sacks {{< br >}}{{< br >}} Lester and Piore {{< br >}}{{< br >}}  | Essay 3 due |
-| 15 |  {{< br >}}{{< br >}} _The Soul of A New Machine_ {{< br >}}{{< br >}} _The Double Helix: A Personal Account of the Discovery of the Structure of DNA_ {{< br >}}{{< br >}} Wrap Up {{< br >}}{{< br >}}  | &nbsp; |
-| 16 | Final Exam |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+WEEK #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**I. Introduction and Overview**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+The Evolution of the Industrial State
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Paradigms in Social Science
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**II. Liberalism and Neoclassical Economics**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Film: [_The Fountainhead_](http://www.imdb.com/title/tt0041386/?ref_=nv_sr_1). Directed by King Vidor. Black and White, 114 min. 1949.
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Discussion of Rand
+
+Milton Friedman, _Capitalism and Freedom_
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Becker
+
+Gilder
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**III. Marxism, Economics and Politics**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Marxism: The Manifesto
+
+Elster
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Capital, The Division of Labor and Machinery
+
+Bowles and Gintis
+
+Foley
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Midterm Exam
+{{< tdclose >}}
+{{< tdopen >}}
+Essay 1 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**IV. The Social Embeddedness of the Economy**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Introduction
+
+Weber
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Polanyi
+
+Schumpeter
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Keynes
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**V. The Rise and Fall of the Corporate State**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Galbraith and Solow
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Piore and Sabel
+{{< tdclose >}}
+{{< tdopen >}}
+Essay 2 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**VI. The Crisis** 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12–13
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+The Crisis
+
+Davis
+
+Lo
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**VII. Recasting Individualism**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Thaler and Sunstein
+
+DellaVigna
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Arendt
+
+Sacks
+
+Lester and Piore
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Essay 3 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+_The Soul of A New Machine_
+
+_The Double Helix: A Personal Account of the Discovery of the Structure of DNA_
+
+Wrap Up
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Final Exam
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
